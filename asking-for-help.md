@@ -14,7 +14,7 @@ We ask that you take the following steps when dealing with technical questions, 
 4. Ask another classmate
 5. Ask an instructor
 
-If we get the impression that you haven't tried the first three steps, we may push back and redirect you to Google, an article, or a lesson plan. It's not that we're mean or that we're too busy: We try hard to not just give anyone answers because that's not a sustainable approach to learning data sciencet. You will have to seek out answers on your own first, both here and in the real data science world!
+If we get the impression that you haven't tried the first three steps, we may push back and redirect you to Google, an article, or a lesson plan. It's not that we're mean or that we're too busy: We try hard to not just give anyone answers because that's not a sustainable approach to learning data science. You will have to seek out answers on your own first, both here and in the real data science world!
 
 If it's clear that you've made a concerted effort to research the problem, then we'll be more than happy to help you figure things out. Usually the first question we'll ask is "What errors are you getting?"
 
