@@ -17,11 +17,11 @@
 
 - [Squad meetings](squad-meetings.md)
 
-- [Schedule, Scope, and Sequence](scope-and-sequence.md)
+- Schedule, Scope, and Sequence
 
 - [Squads](squads.md)
 
-- [Outcomes Roadmap](https://docs.google.com/document/d/1uxq2Z_UPrlUJSlSGXgOWfC-A-3F6tWdzd1uqMxcaktA/edit)
+- Outcomes Roadmap
 
 ## [GArnet](http://garnet.wdidc.org)
 
