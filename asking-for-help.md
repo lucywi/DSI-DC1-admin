@@ -22,12 +22,9 @@ If your question is **non-technical** -- you're feeling overwhelmed, or you have
 
 **After 6pm**, aside from during office hours, instructors will *not* respond to *technical* questions. This is for our work-life balance as well as yours! If you have logistical questions, such as about a homework prompt or when class is starting, please contact your squad instructor.
 
-## During Project Weeks
+## Projects
 
-Instructors will be available in a Genius-Bar style format multiple times throughout the week.
-Please refer to [the calendar](http://ga-dc.github.io/wdi8/calendar.html) to see which instructors will be available for support.
-
-GitHub issues are also useful for answering technical questions. 90% of the time, at least one instructor will be dedicated to monitoring issues at all times during business hours. The other 10% will be announced in advance on Slack.
+GitHub issues are also useful for answering technical questions. 
 
 Issues should follow this format:
 ```
@@ -44,7 +41,7 @@ My repo link is ___ and my question is about lines ___.
 **Note:** Issues can only be reopened by instructors. Therefore, should your issue get closed, please create a *new* issue, and if it's applicable to your previous issue, just include a link to the previous issue.
 
 ### Why?
-Many reasons! The biggest is that programmers often have the same question. This way, students with the same question can find their answer in one place.
+Many reasons! The biggest is that data scientists often have the same question. This way, students with the same question can find their answer in one place.
 
 Additionally, having to articulate the question into words is very helpful in understanding the problem. Sometimes, simply articulating the question gives you the answer!
 
