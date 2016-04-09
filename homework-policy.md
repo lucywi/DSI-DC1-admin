@@ -65,7 +65,7 @@ All homework assignments will have their own Github repository, under the `ga-ds
 3. Create a feature branch in the format of `yourname_solution`.
 4. Complete your work inside it.
 5. Then, **push** your completed work to your forked repository.
-6. Finally, make a **pull request** to the upstream repository (in `ga-wdi-exercises`).
+6. Finally, make a **pull request** to the upstream repository (in `ga-dsi-dc1-exercises`).
 
 For example, the sequence of commands you might follow to complete the above process is:
 
