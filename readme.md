@@ -1,4 +1,4 @@
-# WDI8
+# DSI1
 
 ## Table of Contents
 
@@ -8,8 +8,6 @@
 
 - [Calendar](http://ga-dc.github.io/wdi8/calendar.html)
 
-- [Classroom Rotation](classroom-rotation.md)
-
 - [Homework Policy](homework-policy.md)
 
 - [Incentives](incentives.md)
@@ -17,7 +15,7 @@
 
 - [Office Hours](office-hours.md)
 
-- [One-on-Ones](one-on-ones.md)
+- [Squad meetings](squad-meetings.md)
 
 - [Schedule, Scope, and Sequence](scope-and-sequence.md)
 
