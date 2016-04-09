@@ -54,7 +54,7 @@ On **every submission** -- that is, on every pull request (or, sometimes, issue)
 
   For example:
 
-  > Jesse: On line 85 of `script.js`, is this what you meant by making it an instance method?
+  > Lucy or Nayana: On line 85 of `name of exercise`, is this what you meant by making it an instance method?
 
 ## The submission process
 
