@@ -50,7 +50,7 @@ Below is a guide for the information that must be included when submitting an is
 
 #### Context
 When submitting an issue, please provide some context as to what the problem is. This includes but is not limited to:
-- What User Story you are currently working on
+- What Project you are currently working on
 - What you are trying to do (in terms of code)
 - Detailed description of the bug or error
 - Relevant code/files/errors (and screenshots if applicable)
