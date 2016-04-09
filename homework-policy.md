@@ -18,7 +18,7 @@
 
 - You will generally be assigned homework every day. It will **all** be due **Thursday morning at 9:00am**.
 
-- Unless otherwise directed, each assignment should be forked and cloned from a `ga-wdi-exercises` repository, and submitted as a pull request to the original `ga-wdi-exercises` repository from your fork. For more information on pull requests, see below.
+- Unless otherwise directed, each assignment should be forked and cloned from a `ga-dsi-exercises` repository, and submitted as a pull request to the original `ga-dsi-exercises` repository from your fork. For more information on pull requests, see below.
 
 - Homework is graded only on **meaningful progress**. That is: that you made an effort to complete it, regardless of whether you were successful. **We would strongly prefer you spend 2 hours taking a good stab at it but not finishing, rather than spending 10 hours getting it perfect.**
 
@@ -31,7 +31,7 @@
 
 - Each week, **one assignment and the lab** will be reviewed and commented upon by your squad instructor.
 
-- The other assignments will be checked only for meaningful progress. These will be checked by **Robin**. In general, feedback will not be given on these assignments by the grading instructor unless you specifically request it.
+- The other assignments will be checked only for meaningful progress. In general, feedback will not be given on these assignments by the grading instructor unless you specifically request it.
 
 ## What to include with your submission
 
