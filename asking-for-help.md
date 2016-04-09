@@ -20,7 +20,7 @@ If it's clear that you've made a concerted effort to research the problem, then 
 
 If your question is **non-technical** -- you're feeling overwhelmed, or you have questions about a homework or project prompt -- we'll do our best to address your concerns as quickly and thoroughly as possible.
 
-**After 6pm**, aside from during [office hours](office-hours.md), instructors will *not* respond to *technical* questions. This is for our work-life balance as well as yours! If you have logistical questions, such as about a homework prompt or when class is starting, please contact **Adrian**. If you have other non-technical questions please contact your squad instructor, or if they're not available, any instructor.
+**After 6pm**, aside from during office hours, instructors will *not* respond to *technical* questions. This is for our work-life balance as well as yours! If you have logistical questions, such as about a homework prompt or when class is starting, please contact **Adrian**. If you have other non-technical questions please contact your squad instructor, or if they're not available, any instructor.
 
 ## During Project Weeks
 
