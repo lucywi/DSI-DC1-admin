@@ -18,7 +18,7 @@
 
 - You will generally be assigned homework every day. It will **all** be due **Thursday morning at 9:00am**.
 
-- Unless otherwise directed, each assignment should be forked and cloned from a `ga-dsi-exercises` repository, and submitted as a pull request to the original `ga-dsi-exercises` repository from your fork. For more information on pull requests, see below.
+- Unless otherwise directed, each assignment should be forked and cloned from a `ga-dsi-dc1-exercises` repository, and submitted as a pull request to the original `ga-dsi-dc1-exercises` repository from your fork. For more information on pull requests, see below.
 
 - Homework is graded only on **meaningful progress**. That is: that you made an effort to complete it, regardless of whether you were successful. **We would strongly prefer you spend 2 hours taking a good stab at it but not finishing, rather than spending 10 hours getting it perfect.**
 
@@ -58,7 +58,7 @@ On **every submission** -- that is, on every pull request (or, sometimes, issue)
 
 ## The submission process
 
-All homework assignments will have their own Github repository, under the `ga-wdi-exercises` account.
+All homework assignments will have their own Github repository, under the `ga-dsi-dc1-exercises` account.
 
 1. Please **fork** new assignments.
 2. Then, **clone** your fork to your computer.
