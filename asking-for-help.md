@@ -2,9 +2,9 @@
 
 ## During Normal Weeks
 
-Please make sure to read the [one-on-ones guidelines](one-on-ones.md)!
+Please make sure to read the [squad meetings guidelines](squad meetings.md)!
 
-Outside of one-on-ones, you can always ask any instructor any question over the course of the day. If we're not around, please send one of us a Slack message -- we all live and breathe Slack!
+Outside of squad meetings, you can always ask any instructor any question over the course of the day. If we're not around, please send one of us a Slack message -- we all live and breathe Slack!
 
 We ask that you take the following steps when dealing with technical questions, e.g. "Why isn't my code working?"
 
