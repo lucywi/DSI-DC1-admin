@@ -12,7 +12,7 @@
 
 - **Late homework will not be accepted**. If you have issues submitting homework please let us know.
 
-- You can track your homework completion rate in [Garnet](http://garnet.wdidc.org).
+- You can track your homework completion rate in [Garnet](http://garnet.dsidc.org).
 
 ## Due Dates and Grading
 
@@ -71,13 +71,13 @@ For example, the sequence of commands you might follow to complete the above pro
 
 ```
 # Click grey 'Fork' button on Github
-js1989: ~/wdi $ git clone git@github.com:js1989/homeworkaroo.git
-js1989: ~/wdi/homeworkaroo $ cd homeworkaroo
-js1989: ~/wdi/homeworkaroo (master) $ git checkout -b johnsmith_solution
-js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ touch did_my_homework.txt
-js1989: ~/wdi/homeworkaroo (johnsmith_solution *) $ git add did_my_homework.txt
-js1989: ~/wdi/homeworkaroo (johnsmith_solution +) $ git commit -m "Added did_hw file. All done"
-js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git push origin johnsmith_solution
+js1989: ~.dsi $ git clone git@github.com:js1989/homeworkaroo.git
+js1989: ~.dsi/homeworkaroo $ cd homeworkaroo
+js1989: ~.dsi/homeworkaroo (master) $ git checkout -b johnsmith_solution
+js1989: ~.dsi/homeworkaroo (johnsmith_solution) $ touch did_my_homework.txt
+js1989: ~.dsi/homeworkaroo (johnsmith_solution *) $ git add did_my_homework.txt
+js1989: ~.dsi/homeworkaroo (johnsmith_solution +) $ git commit -m "Added did_hw file. All done"
+js1989: ~.dsi/homeworkaroo (johnsmith_solution) $ git push origin johnsmith_solution
 # Click green 'New pull request' button on Github
 # Click green 'Create pull request' button
 # Click the new 'Create pull request' button
@@ -86,9 +86,9 @@ js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git push origin johnsmith_solu
 ### If `git remote -v` doesn't show anything, or shows the wrong repo
 
 ```
-js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git remote remove origin
-js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git remote add origin git@github.com:js1989/homeworkaroo.git
-js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git push origin johnsmith_solution
+js1989: ~.dsi/homeworkaroo (johnsmith_solution) $ git remote remove origin
+js1989: ~.dsi/homeworkaroo (johnsmith_solution) $ git remote add origin git@github.com:js1989/homeworkaroo.git
+js1989: ~.dsi/homeworkaroo (johnsmith_solution) $ git push origin johnsmith_solution
 # Click green 'New pull request' button on Github... (see above)
 ```
 
@@ -97,8 +97,8 @@ js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git push origin johnsmith_solu
 Simply rename it with `git branch -m`:
 
 ```
-js1989: ~/wdi/homeworkaroo (bad-branch-name) $ git branch -m "johnsmith_solution"
-js1989: ~/wdi/homeworkaroo (johnsmith_solution) $
+js1989: ~.dsi/homeworkaroo (bad-branch-name) $ git branch -m "johnsmith_solution"
+js1989: ~.dsi/homeworkaroo (johnsmith_solution) $
 ```
 
 ### If you have a folder inside a folder
@@ -134,14 +134,14 @@ outer-folder/
 **The solution:** Move everything from *inside* `inner-folder` to *outside* `inner-folder`:
 
 ```
-js1989: ~/wdi $ cd outer-folder
-js1989: ~/wdi/outer-folder (johnsmith_solution) $ mv inner-folder/* .
+js1989: ~.dsi $ cd outer-folder
+js1989: ~.dsi/outer-folder (johnsmith_solution) $ mv inner-folder/* .
 # This says, "Move everything (*) from `inner-folder` to the present directory (.)
-js1989: ~/wdi/outer-folder (johnsmith_solution *) $ git add .
-js1989: ~/wdi/outer-folder (johnsmith_solution +) $ git commit -m "Put stuff in the right folder"
-js1989: ~/wdi/outer-folder (johnsmith_solution) $ git push origin johnsmith_solution
+js1989: ~.dsi/outer-folder (johnsmith_solution *) $ git add .
+js1989: ~.dsi/outer-folder (johnsmith_solution +) $ git commit -m "Put stuff in the right folder"
+js1989: ~.dsi/outer-folder (johnsmith_solution) $ git push origin johnsmith_solution
 ```
 
 ### If you have errors...
 
-...please refer to [this readme](https://github.com/ga-wdi-lessons/git-review) for instructions on common Git errors.
+...please refer to [this readme](https://github.com/ga.dsi-lessons/git-review) for instructions on common Git errors.
