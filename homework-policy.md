@@ -144,4 +144,4 @@ js1989: ~.dsi/outer-folder (johnsmith_solution) $ git push origin johnsmith_solu
 
 ### If you have errors...
 
-...please refer to [this readme](https://github.com/wdi.dsi-lessons/git-review) for instructions on common Git errors.
+...please refer to [this readme](https://github.com/wdi-lessons/git-review) for instructions on common Git errors.
