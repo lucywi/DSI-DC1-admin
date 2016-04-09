@@ -1,62 +1,30 @@
 # Squads
 
-## Adrian
+## Lucy
+- Adam
+- Ameet
+- Caitlin
+- Johnathon
+- Kai
+- Nicole
+- Rebecca
+- Seth
+- Terry 
 
-- Adrian Wyatt
-- Alexa Klein
-- Andrew Smith-Mui
-- Anissa Jones
-- Bipin Neupane
-- Brendan Magee
+## Nayana
+- Alex
+- Arthur
+- Brian
+- Bruk
+- Cody
+- Hallie
+- Jesse
+- John
+- Michael
 
-## Becky
 
-- Brittany Branson
-- Caitlin Daitch
-- Cam Latimer
-- Casey Gil
-- Charles Hwang
-- Christine Movius
 
-## Jesse
 
-- Clarissa Stark
-- Craig Eisen
-- Farishta Haider
-- Hilary Masland
-- Isaac Hayes
-- Fatai Agiri
 
-## Joe
 
-- Jeffrey Eaton
-- John Blakeman
-- Kaira Johnson
-- Keith Prifte
 
-## Matt
-
-- Kimberly Cabbagestalk Creer
-- Lyndsey Newsome
-- Matt Stevens
-- Matthew Kerns
-- Maureen Vogel
-- Maximillian Kaye
-
-## Nick
-
-- Melissa Miller
-- Mohamed Chalal
-- Nyron Waite
-- Patrick Moran
-- Robel Tekeste
-- Ryan Krolick
-
-## Robin
-
-- Sanjaya Satyal
-- Sarah Ivey
-- Toni Langley
-- Vijender Bajwa
-- Winisha Smith
-- Woo Yun
