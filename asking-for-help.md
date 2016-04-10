@@ -1,7 +1,7 @@
 # Asking For Help
 
 ## In Class
-Write down your question on your desktop with a marker and then get back to what's going on in class. This is a good way not to forget your question, but also not disrupt the flow of class. We will be doing a lot of pairing and/or group exercises in class. During these exercises is the perfect time to ask fellow students your question. Slack it out to all of them. If it's still unclear, try the steps below after class. This isn't meant to discourage questions, but to keep a good flow in the classroom.
+Write down your question on your desktop with a marker and then get back to what's going on in class. This is a good way not to forget your question, but also not disrupt the flow of class. We will be doing a lot of pairing and/or group exercises in class. During these exercises is the perfect time to ask fellow students your question. Slack it out to all of them in the parking lot channel. If it's still unclear, try the steps below after class. This isn't meant to discourage questions, but to keep a good flow in the classroom.
 
 ## During Normal Weeks
 
@@ -23,25 +23,18 @@ If it's clear that you've made a concerted effort to research the problem, then 
 
 If your question is **non-technical** -- you're feeling overwhelmed, or you have questions about a homework or project prompt -- we'll do our best to address your concerns as quickly and thoroughly as possible.
 
-**After 6pm**, aside from during office hours, instructors will *may not* respond to *technical* questions. This is for our work-life balance as well as yours! If you have logistical questions, such as about a homework prompt or when class is starting, please contact your squad instructor.
+**After 6pm**, aside from during office hours, instructors *may not* respond to *technical* questions. This is for our work-life balance as well as yours! If you have logistical questions, such as about a homework prompt or when class is starting, please contact your squad instructor.
 
 ## Projects
 
-GitHub issues are also useful for answering technical questions. 
-
-Issues should follow this format:
+Issues should be submitted on the Slack parking lot channel and should follow this format:
 ```
+My question is about ___.
 I tried ___.
 I expected ___ to happen.
 ___ happened instead.
-My repo link is ___ and my question is about lines ___.
+
 ```
-
-[Just click this handy link to create an issue with these blanks inserted for you!](https://github.com/ga-dc/project1/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.%0DMy+repo+link+is+___+and+my+question+is+about+lines+___.)
-
-*Please close your issues when you've received a satisfactory answer*, and let us know what the solution was! We'll close issues that have gone more than 30 minutes without any updates.
-
-**Note:** Issues can only be reopened by instructors. Therefore, should your issue get closed, please create a *new* issue, and if it's applicable to your previous issue, just include a link to the previous issue.
 
 ### Why?
 Many reasons! The biggest is that data scientists often have the same question. This way, students with the same question can find their answer in one place.
