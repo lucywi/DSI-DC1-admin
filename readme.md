@@ -10,7 +10,7 @@
 
 - Calendar (coming soon)
 
-- [Class standards]()
+- [Class standards](class-standards.md)
 
 - [Electronics](electronics.md) (coming soon)
 
