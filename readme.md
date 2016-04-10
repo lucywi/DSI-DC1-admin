@@ -15,7 +15,7 @@
 
 - [Office Hours](office-hours.md)
 
-- [Squad meetings](squad-meetings.md)
+- [Squad meetings](https://github.com/lucywi/DSI-DC1-admin/blob/master/squad%20meetings.md)
 
 - Schedule, Scope, and Sequence (coming soon)
 
