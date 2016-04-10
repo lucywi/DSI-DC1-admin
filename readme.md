@@ -8,7 +8,7 @@
 
 - [Attendance](attendance.md)
 
-- Calendar (coming soon)
+- [Student Calendar](coming soon) 
 
 - [Class standards](class-standards.md)
 
