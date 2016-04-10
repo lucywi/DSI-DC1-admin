@@ -9,7 +9,7 @@ A lot of our excercises will involve explaining something you've just learned in
 ## Expect to show your homework and project work in class...at any time
 This is old hat now. But, this isn't meant to embarrass you, this is meant to prepare you for and mimic real world situations. There usually aren't any situations where work that you do will only be seen by you. You're going to have to show your co-workers, bosses, stake holders, etc. starting to present and explain whatever it is your working on from the beginning will help prepare you for the real world situations you will experience. 
 
-## These are all things that you will be doing after class in the real world, which is why we incorporate it into the classroom from Day 1.
+These are all things that you will be doing after class in the real world, which is why we incorporate it into the classroom from Day 1.
 
 
 
