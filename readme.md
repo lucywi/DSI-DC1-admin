@@ -12,7 +12,7 @@
 
 - [Class standards](class-standards.md)
 
-- [Electronics](electronics.md) (coming soon)
+- [Electronics](electronics.md) 
 
 - [Homework Policy](homework-policy.md)
 
