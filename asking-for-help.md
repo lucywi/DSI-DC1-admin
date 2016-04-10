@@ -1,5 +1,8 @@
 # Asking For Help
 
+## In Class
+Write down your question on your desktop with a marker and then get back to what's going on in class. This is a good way not to forget your question, but also not disrupt the flow of class. We will be doing a lot of pairing and/or group exercises in class. During these exercises is the perfect time to ask fellow students your question. Slack it out to all of them. If it's still unclear, try the steps below after class. This isn't meant to discourage questions, but to keep a good flow in the classroom.
+
 ## During Normal Weeks
 
 Please make sure to read the [squad meetings guidelines](squad meetings.md)!
