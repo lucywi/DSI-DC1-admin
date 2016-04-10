@@ -1,16 +1,15 @@
-# Squad meetings
+# Class standards
 
-You will have a squad meeting with your squad instructor every week. These will be scheduled by your squad instructor.
+## Expect be called on in class...at any time
+This isn't meant to embarass you, actually the exact opposite. Remember, you are all starting out in data science together. Let's learn from our peers. Let's make mistakes and often in front of our peers. Iterate on what we learn and make each other better. 
 
-They're a safe space to talk about literally anything. Squad meetings might include:
-- Code review
-- Discussing concepts covered in class
-- Talking about your career search
-- Thinking through project ideas
-- Generally shooting the breeze
+## Expect to explain things in class...at any time
+A lot of our excercises will involve explaining something you've just learned in class to a partner or a small group. Once again, this is not meant to embarrass you. One way to know if you really have learned and know something is if you can explain it to someone esle. 
 
-**It's up to you** what gets covered during the squad meetings, so please come with questions prepared!
+## Expect to show your homework and project work in class...at any time
+This is old hat now. But, this isn't meant to embarrass you, this is meant to prepare you for and mimic real world situations. There usually aren't any situations where work that you do will only be seen by you. You're going to have to show your co-workers, bosses, stake holders, etc. starting to present and explain whatever it is your working on from the beginning will help prepare you for the real world situations you will experience. 
 
-Squad meetings are usually 30 minutes. They can be longer or shorter depending on what needs you express.
+## These are all things that you will be doing after class in the real world, which is why we incorporate it into the classroom from Day 1.
 
-We're **more than happy** to meet with you outside of the scheduled squad meeting times! Please just ask, either in-person or via Slack. You can request time from *any* instructor. If we can fit it into our schedules, we'll make it work!
+
+
