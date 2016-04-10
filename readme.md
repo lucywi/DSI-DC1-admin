@@ -8,7 +8,7 @@
 
 - Calendar (coming soon)
 
-- Electronics()
+- Electronics(electronics.md)
 
 - [Homework Policy](homework-policy.md)
 
