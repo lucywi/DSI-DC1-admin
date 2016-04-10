@@ -8,6 +8,8 @@
 
 - Calendar (coming soon)
 
+- Electronics()
+
 - [Homework Policy](homework-policy.md)
 
 - [Incentives](incentives.md)
