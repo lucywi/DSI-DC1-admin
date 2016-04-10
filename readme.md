@@ -10,6 +10,8 @@
 
 - Calendar (coming soon)
 
+- [Class standards]()
+
 - [Electronics](electronics.md) (coming soon)
 
 - [Homework Policy](homework-policy.md)
