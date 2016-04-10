@@ -6,7 +6,7 @@
 
 - [Attendance](attendance.md)
 
-- [Calendar](http://ga-dc.github.io/wdi8/calendar.html)
+- Calendar (coming soon)
 
 - [Homework Policy](homework-policy.md)
 
