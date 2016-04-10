@@ -14,11 +14,11 @@ Please check in for class while connected to GA's wireless network (`GA-Guest`),
 
 ## How to do it
 
-### 1. Log in to http://garnet.wdidc.org. You'll see something like this:
+### 1. Log in to http://garnet.wdidc.org. This is an administrative tracking system set up by the Web Development Immersive instructional team so you might see references to that program throughout the site. When you log in, you'll see something like this:
 
 ![View on log-in](http://i.imgur.com/zOuHGdS.png)
 
-### 2. Click the name of your current cohort. In this case, that's "DC WDI8". You'll see this:
+### 2. Click the name of your current cohort. In this case, that's "DSI-1". You'll see something like this:
 
 ![Check-in button](http://imgur.com/6HFj8lq.png)
 
