@@ -31,13 +31,9 @@ http://garnet.wdidc.org
 
 ## Tools
 
-- [All WDI Exercises](http://repotagger.github.io?name=ga-wdi-exercises)
+- [DSI Lessons](https://github.com/ga-students/DSI-DC-1/tree/master/week-01)
 
-- [All WDI Lessons](http://repotagger.github.io?name=ga-wdi-lessons)
-
-- [Installfest](https://github.com/ga-dc/installfest)
-
-- [Download the whole curriculum in one fell swoop](https://github.com/ga-dc/curriculum-collector)
+- [Installfest](https://www.dropbox.com/sh/3mp1p3av2k6be4y/AADstHqUMSPRyYPWuk_C3XAJa?dl=0)
 
 ## Slack
 
