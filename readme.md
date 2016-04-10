@@ -29,7 +29,7 @@
 
 - Outcomes Roadmap (coming soon)
 
-## [GArnet](http://garnet.wdidc.org)
+## [Garnet](http://garnet.wdidc.org)
 
 Your one-stop-shop for tracking your attendance, homework submissions, and more!
 
