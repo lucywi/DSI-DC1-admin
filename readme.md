@@ -38,11 +38,8 @@ http://garnet.wdidc.org
 ## Slack
 
 - Rooms
-  - [wdi-dc-8-students](https://ga-students.slack.com/messages/wdi-dc-8-students/)
-  - [wdi-dc-8-announcements](https://ga-students.slack.com/messages/wdi-dc-8-announce/)
-  - [wdi-dc-8-classroom-4](https://ga-students.slack.com/messages/wdi-dc-8-classroom-4/)
-  - [wdi-dc-8-classroom-6](https://ga-students.slack.com/messages/wdi-dc-8-classroom-4/)
-  - [wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
+  - [dsi-dc-1-students](https://ga-students.slack.com/messages/dsi-dc-1-students/)
+  - [dsi-dc-1-announcements](https://ga-students.slack.com/messages/dsi-dc-1-announce/)
 
 - Tips
   - \``hello`\`: Backtics (the top-left of the keyboard on a Mac) makes text show up in a monospace font. Great for code.
