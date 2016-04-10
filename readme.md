@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+- [DSI Onboarding Tasks](https://github.com/lucywi/DSI-DC1-admin/blob/master/DSI%20Onboarding%20Tasks)
+
 - [Asking for Help](asking-for-help.md)
 
 - [Attendance](attendance.md)
